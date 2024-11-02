@@ -1,0 +1,8 @@
+Admin
+email: admin@gmail.com 
+pass: 123123
+
+
+Student
+email: yhansey@lami.com
+pass: 12313
